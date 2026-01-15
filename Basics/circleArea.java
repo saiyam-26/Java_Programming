@@ -10,6 +10,6 @@ public class CircleArea{
         double pi = 3.1415;
         double area = pi * radius * radius;
         
-        System.out.println("Area = " + area);
+        System.out.println("Area = " + area); 
     }
 }
